@@ -1,0 +1,14 @@
+fastapi[all]~=0.79.0
+psycopg2-binary
+sqlalchemy~=1.4.39
+alembic~=1.8.1
+python-dotenv~=0.20.0
+sqladmin~=0.1.12
+passlib[bcrypt]~=1.7.4
+fastapi-mail
+python-jose[cryptography]
+python-slugify
+fastapi-pagination
+pydantic~=1.9.1
+starlette~=0.19.1
+flake8
